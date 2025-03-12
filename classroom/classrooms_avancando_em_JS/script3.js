@@ -46,3 +46,11 @@ console.log(user)
 
 user.pop()
 console.log(user)
+
+let listaObj = ['mouse', 'teclado','violao']
+console.log(listaObj.indexOf("mouse"))
+
+if(listaObj.indexOf("teclado")){
+    console.log("true")
+}else
+    console.log("false")

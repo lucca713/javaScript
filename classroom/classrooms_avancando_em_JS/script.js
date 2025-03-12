@@ -20,4 +20,3 @@ const product1 = new createProduct("Teclado")
 
 //product2 = new createProduct("Mouse")
 //product2.details()
-
