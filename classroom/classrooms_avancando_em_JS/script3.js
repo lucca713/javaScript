@@ -43,3 +43,6 @@ console.log(user)
 
 user.shift()
 console.log(user)
+
+user.pop()
+console.log(user)
